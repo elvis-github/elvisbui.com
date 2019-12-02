@@ -11,9 +11,11 @@ hr{
 
 h1{
 	text-transform: uppercase;
+	float: right;
+	margin: auto auto;
 }
 
-.main, h1{
+.main{
 	text-align: center;
 }
 
