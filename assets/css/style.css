@@ -1,0 +1,17 @@
+.jumbotron {
+	height: 100vh;
+	background-color: white !important;
+}
+
+a {
+	color: black !important;
+}
+
+.navigation {
+	float: right;
+	font-size: larger;
+}
+
+.socialMedia {
+	float: left;
+}
